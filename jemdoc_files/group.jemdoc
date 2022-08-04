@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{group.html}
 = Group
 
+~~~
+{}{img_left}{images/group/group_all.jpg}{}{100%}{}{}
+~~~
+
 == Faculty
 {{
 <div id="member-container">
@@ -18,33 +22,63 @@
 {{
 <div id="member-container">
     <div id="member">
-        <img src="images/groups/people/p7.png">
+        <img src="images/group/people/p7.png">
         <p>
             <b>Zihao Mo</b></br>
             PhD Student
         </p>
     </div>
     <div id="member">
-        <img src="images/groups/people/p6.png">
+        <img src="images/group/people/p6.png">
         <p>
             <b>Jefferson P. Woolard</b></br>
             Master Student
         </p>
     </div>
     <div id="member">
-        <img src="images/groups/people/p8.png">
+        <img src="images/group/people/p8.png">
         <p>
             <b>Wesley Cooke</b></br>
             Undergraduate Student
         </p>
     </div>
     <div id="member">
-        <img src="images/groups/people/p13.png">
+        <img src="images/group/people/p13.png">
         <p>
             <b>Kaney Nguyen</b></br>
             Undergraduate Student
         </p>
     </div>
+</div>
+}}
+
+== Group Pictures
+{{
+<div class="row">
+  <div class="column">
+    <img src="images/group/activity/Picture1.jpg" style="width:100%">
+    <img src="images/group/activity/Picture5.jpg" style="width:100%">
+    <img src="images/group/activity/Picture12.jpg" style="width:100%">
+    <img src="images/group/activity/Picture8.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/group/activity/Picture10.jpg" style="width:100%">
+    <img src="images/group/activity/Picture6.jpg" style="width:100%">
+    <img src="images/group/activity/Picture7.jpg" style="width:100%">
+    <img src="images/group/activity/Picture20.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/group/activity/Picture3.jpg" style="width:100%">
+    <img src="images/group/activity/Picture11.jpg" style="width:100%">
+    <img src="images/group/activity/Picture14.jpg" style="width:100%">
+    <img src="images/group/activity/Picture15.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/group/activity/Picture4.jpg" style="width:100%">
+    <img src="images/group/activity/Picture9.jpg" style="width:100%">
+    <img src="images/group/activity/Picture16.jpg" style="width:100%">
+    <img src="images/group/activity/Picture21.jpg" style="width:100%">
+  </div>
 </div>
 }}
 
