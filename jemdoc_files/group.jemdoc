@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{group.html}
+= Group
+
+== Faculty
+{{
+<div id="member-container">
+    <div id="member">
+        <img src="images/weimingxiang.jpg">
+        <p>
+            <a href="https://xiangweiming.github.io/" target="_blank"><b>Weiming Xiang</a></b></br>
+            Assistant Professor</br>
+		<a href="https://scholar.google.com/citations?user=Vm_7JP8AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
+        </p>
+    </div>
+</div>
+}}
+== Members
+{{
+<div id="member-container">
+    <div id="member">
+        <img src="images/groups/people/p7.png">
+        <p>
+            <b>Zihao Mo</b></br>
+            PhD Student
+        </p>
+    </div>
+    <div id="member">
+        <img src="images/groups/people/p6.png">
+        <p>
+            <b>Jefferson P. Woolard</b></br>
+            Master Student
+        </p>
+    </div>
+    <div id="member">
+        <img src="images/groups/people/p8.png">
+        <p>
+            <b>Wesley Cooke</b></br>
+            Undergraduate Student
+        </p>
+    </div>
+    <div id="member">
+        <img src="images/groups/people/p13.png">
+        <p>
+            <b>Kaney Nguyen</b></br>
+            Undergraduate Student
+        </p>
+    </div>
+</div>
+}}
+
+
+

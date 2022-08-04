@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{index.html}
+
+~~~
+{}{img_left}{./images/banner2.gif}{profile pic}{100%}{}{}
+~~~
+
+~~~
+{}{img_left}{./images/profile1.png}{profile pic}{250px}{250px}{}
+= Welcome to AI-CPS Lab \n
+=== [https://www.augusta.edu/ccs/ School of Computer and Cyber Sciences], [https://www.augusta.edu/ Augusta University]\n
+
+AI-CPS Lab (Assured and Intelligent Cyber-Physical Systems Lab) is a research group at [https://www.augusta.edu/ Augusta University]. Our aim is to create, deploy, and validate new Machine Learning (ML) technologies in the design, development, and maintenance throughout the life cycles of Cyber-Physical Systems (CPS), so that CPS are computational intelligent and self-adaptive as well as trustworthy and reliable in open environments throughout the lifetime.
+
+To this end, we develop novel modeling, control, synthesis, and verification methods and tools to ensure both high performance and reliability of CPS (see [projects.html Projects], [publications.html Publications], and [resources.html Resources]). Applications include but are not limited to Unmanned Aerial Vehicles (UAVs), autonomous vehicles, industrial control systems, etc. We want to be able to build theoretical foundations to answer the scientific questions we deem most important as well as develop convenient tools to solve practical CPS engineering problems.  
+~~~ 
+
+~~~
+*Openings:* We are looking for passionate new [phd.html PhD students], [undergraduate.html Master and Undergraduate students] to join the team! Please send your request with CV to Prof. Xiang at [mailto:wxiang@augusta.edu wxiang@augusta.edu]. 
+~~~
+
+== News
+
+
+
+

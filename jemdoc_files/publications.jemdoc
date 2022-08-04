@@ -1,0 +1,640 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== Book Chapters
+
+=== 2019
+
+- *Reachable Set Estimation and Verification for Neural Network Models of Nonlinear Dynamic Systems* ([https://arxiv.org/pdf/1802.03557.pdf PDF])
+\n
+W. Xiang, D.M. Lopez, P. Musau, T.T. Johnson
+\n
+Safe, Autonomous and Intelligent Vehicles, Springer, 123-144
+
+== Journal Articles
+
+=== 2022
+
+- *Guaranteed Approximation Error Estimation of Neural Networks and Model Modification* ([https://drive.google.com/file/d/17X1-UMtTRHXBRmkxKTx81KoOUryF0QTR/view?usp=sharing PDF])
+\n
+Y. Yang, T. Wang, J. P. Woolard, W. Xiang
+\n
+Neural Networks, 151: 61-699
+
+- *Design of Interval Observer for Continuous Linear Large-Scale Systems with Disturbance Attenuation* ([https://drive.google.com/file/d/1yxnkh9-I-NSPKW7-kQ3j5duaLei3bqB5/view?usp=sharing PDF])
+\n
+T. Wang, Y. Li, W. Xiang
+\n
+Journal of the Franklin Institute, 359(8): 3910-3929
+
+=== 2021
+
+- *Verification of Piecewise Deep Neural Networks: a Star Set Approach with Zonotope Pre-filter*
+([PDF])
+\n
+D. Tran, N. Pal, D.M. Lopez, P. Musau, X. Yang, L.V. Nguyen, W. Xiang, S. Bak, T. T. Johnson
+\n
+Formal Aspects of Computing, 33: 519-545
+
+- *Run-Time Safety Monitoring of Neural-Network-Enabled Dynamical Systems (Regular Paper)*
+([https://arxiv.org/pdf/2101.08297.pdf PDF])
+\n
+W. Xiang
+\n
+IEEE Transactions on Cybernetics, Accepted
+
+- *Necessary and Sufficient Conditions for Stability of Discrete-Time Switched Linear Systems with Ranged Dwell Time*
+([https://arxiv.org/pdf/2105.14113.pdf PDF])
+\n
+W. Xiang
+\n
+IEEE Control Systems Letters, 6: 728-733
+
+=== 2020
+
+- *Verification Approaches for Learning-Enabled Autonomous Cyber-Physical Systems (Survey Paper)*
+([https://drive.google.com/file/d/1P_nb7ZfZ6-mVqzlg5_kDL1qzNUWeECh4/view?usp=sharing PDF])
+\n
+D. Tran, W. Xiang, T.T. Johnson
+\n
+IEEE Design and Test, doi: 10.1109/MDAT.2020.3015712
+
+- *Reachable Set Estimation for Neural Network Control Systems: A Simulation-Guided Approach (Regular Paper)* 
+([https://arxiv.org/pdf/2004.12273.pdf PDF])
+\n
+W. Xiang, D. Tran, X. Yang, T.T. Johnson
+\n
+IEEE Transactions on Neural Networks and Learning Systems, 32(5): 1821-1830
+
+- *Reachable Set Estimation and Decentralized Control Synthesis of Large-Scale Switched Systems Under Mixed Switching*
+([https://drive.google.com/file/d/1wDdRpOTRry-aB4IykILwlV66KUbzlTzk/view?usp=sharing PDF])
+\n
+T. Wang, X. Wang, W. Xiang
+\n
+International Journal of Robust and Nonlinear Control, 30(16): 6909-6930
+
+
+
+- *Stabilization for Continuous-Time Switched Linear Systems: A Mixed Switching Scheme* 
+([https://drive.google.com/open?id=1R0W0xBpGAaxKKya4Fhf_VnWaN4pmJycu PDF])
+\n
+W. Xiang
+\n 
+Nonlinear Analysis: Hybrid Systems, 36, 100872
+
+
+- *New Stability Conditions for Switched Linear Systems: A Reverse-Timer-Dependent Multiple Discontinuous Lyapunov Function Approach* ([https://drive.google.com/open?id=1DK1Ny6tyhmORN6QDjdYeUcBAHF3pEOWi PDF])
+\n
+Y. Li, W. Xiang, H. Zhang, J. Xia, Q. Zheng
+\n 
+IEEE Transactions on Systems, Man, and Cybernetics: Systems, 10.1109/TSMC.2019.2963142
+
+=== 2019
+
+- *Necessary and Sufficient Conditions to Stability of Discrete-Time Delay Systems*
+([https://drive.google.com/file/d/1f3n7ttd1u28khMPKq0_IkUmsJIOAVXi6 PDF])
+\n 
+T. Wang, W. Xiang
+\n
+Journal of the Franklin Institute, 365(16), 9788-9803
+
+
+- *Nonconservative Lifted Convex Conditions for Stability of Discrete-Time Switched Systems under Minimum Dwell-Time Constraint* ([https://drive.google.com/open?id=1Qrcs7sX5ybrGlTfSR_3t0p5185zNmXzp PDF])
+\n
+W. Xiang, D. Tran, T.T. Johnson
+\n
+IEEE Transactions on Automatic Control, 64(8), 3407 - 3414
+
+- *Guest Editorial: Recent Advances in Control and Verification for Hybrid Systems* ([https://drive.google.com/open?id=1Fcsh4-7efc8XYh9A4QtnybhUe7_DBjXK PDF])
+\n
+W. Xiang, G. Zhai, S. Baldi, C. Yuan, T. T. Johnson
+\n
+IET Control Theory and Applications, 13 (9), 1219-1221
+
+- *New Alternative Convex Conditions on Exponential Stability and Stabilization of Switched Positive Linear Systems with Dwell Time*
+([https://drive.google.com/open?id=17jVrhD11XA7u2c0AwjlN9IdUVg1FCB76 PDF])
+\n
+H. Zhang, Y. Li, W. Xiang
+\n
+IET Control Theory & Applications, 13 (5), 620-631
+
+
+
+=== 2018
+
+- *On Stability and H_\infty control of Switched Systems with Random Switching Signals* ([https://drive.google.com/open?id=1qPGSVbrI_fLJw8IuGcA7pqFiXnArn9aK PDF])
+\n
+W. Xiang, J. Lam, P. Li
+\n
+Automatica 95, 419-425
+
+- *Reachable Set Estimation for Switched Linear Systems with Dwell-Time Switching* ([https://drive.google.com/open?id=1fghZlGcby29yZqaXChfj-K7Qf-M-h_am PDF])
+\n
+S. Baldi, W. Xiang
+\n
+Nonlinear Analysis: Hybrid Systems 29, 20-33
+
+- *Event-Triggered Control of Continuous-Time Switched Linear Systems* ([https://drive.google.com/open?id=1e79noCW59p1kLGr8KhhD3k-FMmOiyU74 PDF])
+\n
+W. Xiang, T.T. Johnson
+\n
+IET Control Theory & Applications 11 (11), 1694 - 1703
+
+- *Robust Exponential Stability and Disturbance Attenuation for Discrete-Time Switched Systems under Arbitrary Switching* ([https://drive.google.com/open?id=1EkW238HGny9cJ8YyGgLBwMOlw72Xeiye PDF])
+\n
+W. Xiang, H.D. Tran, T.T. Johnson
+\n
+IEEE Transactions on Automatic Control 63 (5), 1450-1456
+
+- *Output Reachable Set Estimation and Verification for Multilayer Neural Networks* ([https://drive.google.com/open?id=1uqK97wfy62BzgHsD8Jcr6mLgAu20OAJY PDF])
+\n
+W. Xiang, H.D. Tran, T.T. Johnson
+\n
+IEEE Transactions on Neural Networks and Learning Systems, 29 (11), 5777 - 5783
+
+- *Parameter-Memorized Lyapunov Functions for Discrete-Time Systems with Time-Varying Parametric Uncertainties* ([https://drive.google.com/open?id=1h6qJ6yBytebwcGOM6oeJ2Ger1zGvWZPo PDF])
+\n
+W. Xiang
+\n
+Automatica 87, 450-454
+
+- *Stability Analysis and L_1-gain Characterization for Switched Positive Systems under Dwell-Time Constraint* ([https://drive.google.com/open?id=1ZeRWUlsaznINLBqDN8JdjHkr7_T3KDDY PDF])
+\n
+W. Xiang, J. Lam, J. Shen
+\n
+Automatica 85, 1-8
+
+=== 2017
+
+- *Output Reachable Set Estimation for Switched Linear Systems and Its Application in Safety Verification* ([https://drive.google.com/open?id=1oqQjvYyk18JfoLx6McJm1ohtmf0WctfS PDF])
+\n
+W. Xiang, H.D. Tran, T.T. Johnson
+\n
+IEEE Transactions on Automatic Control 62 (10), 5380-5387
+
+- *Order-Reduction Abstractions for Safety Verification of High-Dimensional Linear Systems* ([https://drive.google.com/open?id=16W_BbYZj08lr2QuFiGVxs5Ki29m4-Yod PDF])
+\n
+H.D. Tran, L.V. Nguyen, W. Xiang, T.T. Johnson
+\n
+Discrete Event Dynamic Systems 27 (2), 443-461
+
+=== 2016
+
+- *Mode-Identifying Time Estimation and Switching-Delay Tolerant Control for Switched Systems: An Elementary Time Unit Approach* ([https://drive.google.com/open?id=1anEv-0R9SbzZVIoKJmhrtCldvqKBZoBX PDF])
+\n
+L. Zhang, W. Xiang
+\n
+Automatica 64, 174-181
+
+- *Necessary and Sufficient Condition for Stability of Switched Uncertain Linear Systems under Dwell-Time Constraint* ([https://drive.google.com/open?id=1nHf8KFwUrG7xfvudnMeu78Ina4kYqUSE PDF])
+\n
+W. Xiang
+\n
+IEEE Transactions on Automatic Control 61 (11), 3619-3624
+
+- *Stability Analysis for LTI Control Systems With Controller Failures and Its Application in Failure Tolerant Control* ([https://drive.google.com/open?id=1qC0FXkJPu_CdLhHtwqf9t6S9tvzfLBIt PDF])
+\n
+W. Xiang, G. Zhai, C. Briat
+\n
+IEEE Transactions on Automatic Control 61 (3), 811 - 816
+
+=== 2015
+
+- *Dissipativity and Dwell Time Specifications of Switched Discrete-Time Systems and Its Applications in H_infty and Robust Passive Control* ([https://drive.google.com/open?id=1JyJlWzL2nBEAkcoP3vvFUSLbB95IoYWD PDF])
+\n
+W. Xiang, J. Xiao, G. Zhai
+\n
+Information Sciences 320, 206-222
+
+- *H_\infty Filtering for Switched Discrete-Time Systems under Asynchronous Switching: A Dwell-Time Dependent Lyapunov Functional Method* ([https://drive.google.com/open?id=1xjZO_4SdP6PAO25haFJMCNkhtafMvKOo PDF])
+\n
+W. Xiang, J. Xiao, M.S. Mahmoud
+\n
+International Journal of Adaptive Control and Signal Processing 29 (8), 971-990
+
+- *On Equivalence of Two Stability Criteria for Continuous-Time Switched Systems with Dwell Time Constraint* ([https://drive.google.com/open?id=1HosiJcdVAzuIH8keEd7c9VP_nruVLR0T PDF])
+\n
+W. Xiang
+\n
+Automatica 54, 36-40
+
+- *Stability Analysis and Failure Tolerant Control for Discrete-Time Linear Systems with Controller Failure* ([https://drive.google.com/open?id=1_Wk6FW9Yr4KuPqUCbGEnWtXyhF7R4c02 PDF])
+\n
+W. Xiang, G. Zhai, J. Xiao
+\n
+International Journal of Control 88 (3), 559-570
+
+- *Real-Time Signalization for an Oversaturated Intersection via Static State Feedback Control: A Switched System Approach* ([https://drive.google.com/open?id=16s1pjmV07RXN-WW1tM0laCLpGZRT1siK PDF])
+\n
+W. Xiang, J. Xiao, Y. Jiang
+\n
+Journal of the Franklin Institute 352, 3304-3324
+
+=== 2014
+
+- *Decentralized Weighted Control for a Class of Large-Scale Systems with Multi-Modes* ([https://drive.google.com/open?id=1LZ4sPg0C2RRpPvd7sFs2yFXD8LIvo196 PDF])
+\n
+W. Xiang, J. Xiao, L. Han
+\n
+International Journal of Robust and Nonlinear Control 24 (18), 3387-3408
+
+- *New Results on Asynchronous H_\infty Control for Switched Discrete-Time Linear Systems under Dwell Time Constraint* ([https://drive.google.com/open?id=1cNQzJ104UhSaIJQQgjPLsLx-97Ce53xH PDF])
+\n
+J. Xiao, W. Xiang
+\n
+Applied Mathematics and Computation 242, 601-611
+
+- *Finite-Time H_\infty State Estimation for Discrete-Time Switched Control Systems Under Asynchronous Switching* ([https://drive.google.com/open?id=17Xe0x2Qm9ml4GjifhXFhsPhVYMzrj95J PDF])
+\n
+M.N. Iqbal, J. Xiao, W. Xiang
+\n
+Asian Journal of Control 16 (4), 1112-1121 
+
+- *Switching PDC Control for Discrete-Time T-S Fuzzy System: A Membership Function Ranking Approach* ([https://drive.google.com/open?id=11WHi5wKbrdGzawaOJkWt1LZRCTjQUup3 PDF])
+\n
+W. Xiang, J. Xiao, L. Han
+\n
+Journal of the Franklin Institute 351 (7), 3536-3558
+
+- *State Estimation for Short-Time Switched Linear Systems under Asynchronous Switching* ([https://drive.google.com/open?id=10JV-UL38BHcGI9ZNsvZ9e-IiJG_lBaBj PDF])
+\n
+W. Xiang, J. Xiao, M.N. Iqbal
+\n
+International Journal of Adaptive Control and Signal Processing 28 (6), 553-561
+
+- *Robust Fault Detection for a Class of Uncertain Switched Nonlinear Systems via the State Updating Approach* ([https://drive.google.com/open?id=1njB9CAlBpF6L4zmAOcaDmW0qj0QTDHnU PDF])
+\n
+W. Xiang, J. Xiao, M.N. Iqbal
+\n
+Nonlinear Analysis: Hybrid Systems 12, 132-146
+
+- *Stabilization of Switched Continuous-Time Systems with All Modes Unstable via Dwell Time Switching* ([https://drive.google.com/open?id=1phmuHqLQq21zV9-3qHavgiRCEn1ggNim PDF])
+\n
+W. Xiang, J. Xiao
+\n
+Automatica 50 (3), 940-945
+
+- *Parameter-Dependent Finite-Time Observer Design for Time-Varying Polytopic Uncertain Switched Systems* ([https://drive.google.com/open?id=13qbCg2ECYz43hZElhLPb6rmcrTUMSDNk PDF])
+\n
+M.N. Iqbal, J. Xiao, W. Xiang
+\n
+Journal of the Franklin Institute 351 (3), 1657-1672
+
+- *A New Approach For Stability Analysis Of Time-Dependent Switched Continuous-Time Linear Systems* ([https://drive.google.com/open?id=1MotfNB0DLxOi6Q-Cjd8cR0qcOineEVJ4 PDF])
+\n
+W. Xiang, J. Xiao, L. Han
+\n
+Asian Journal of Control 16 (2), 461-468
+
+- *Convex Sufficient Conditions on Asymptotic Stability and l_2 Gain Performance for Uncertain Discrete-Time Switched Linear Systems* ([https://drive.google.com/open?id=1CDoWrHC5xxkAbalCMbtsFX3NEUjKGLOM PDF])
+\n
+W. Xiang, J. Xiao
+\n
+IET Control Theory & Applications 8 (3), 211-218
+
+- *Hybrid Control for Over-Saturated Signalized Intersection Based on Switched System* (/in Chinese/)
+\n
+W. Xiang, J. Xiao, Y. Jiang
+\n
+Journal of Transportation Systems Engineering and Information Technology 14 (2), 57-61
+
+- *Optimal Finite-Time State Estimation for Discrete-Time Switched Systems under Switching Frequency Constraint* ([https://drive.google.com/open?id=1etV-r1cIHYUNFnVuto2_LbuzwTU_46RB PDF])
+\n
+L. Du, W. Xiang, Y. Zhao
+\n
+Mathematical Problems in Engineering 2014
+
+- *Discretized Lyapunov Function Approach for Switched Linear Systems under Dwell Time Constraint* ([https://drive.google.com/open?id=1PC0CLsCPzk2_jp9H1w4Nk19Apd2FQN2O PDF])
+\n
+Y. Zhao, S. Zhuang, W. Xiang, L. Du
+\n
+Abstract and Applied Analysis 2014
+
+=== 2013
+
+- *H_\infty Control Synthesis for Short-Time Markovian Jump Continuous-Time Linear Systems* ([https://drive.google.com/open?id=1rPsT4rsqhGQ58KmM3gsa1jjy5PvUGkXE PDF])
+\n
+W. Xiang, J. Xiao, L. Han
+\n
+Circuits, Systems, and Signal Processing 32 (6), 2799-2820
+
+- *H_\infty Control Synthesis of Switched Discrete-Time Fuzzy Systems via Hybrid Spproach* ([https://drive.google.com/open?id=1YxOIfjSOuid0MSrQeYxLucgkh_ivgvO4 PDF])
+\n
+W. Xiang, J. Xiao
+\n
+Optimal Control Applications and Methods 34 (6), 635-655
+
+- *Finite Time H_\infty Filtering for Uncertain Discrete-Time Switching Systems* ([https://drive.google.com/open?id=1JrOxkMDfGE_JBDBO6LmH86ZZTgMq4MHQ PDF])
+\n
+M.N. Iqbal, J. Xiao, W. Xiang
+\n
+Transactions of the Institute of Measurement and Control 35 (6), 851-862
+
+- *H_\infty Control for Switched Fuzzy Systems via Dynamic Output Feedback: Hybrid and Switched Approaches* ([https://drive.google.com/open?id=1ilgNxpkChxr5f0MsdG_v8luhrsSWxzvF PDF])
+\n
+W. Xiang, J. Xiao, M.N. Iqbal
+\n
+Communications in Nonlinear Science and Numerical Simulation 18 (6), 1499-1514
+
+- *H_\infty Filtering for Switched Nonlinear Systems with Polytopic Uncertainties via Filter State Impulsive Jump Approach* ([https://drive.google.com/open?id=1ZodufB486MInqeOVSjIcoU6igomsV8z5 PDF])
+\n
+W. Xiang, J. Xiao
+\n
+Transactions of the Institute of Measurement and Control 35 (4), 540-550
+
+- *Finite-time Stability and Stabilisation for Switched Linear Systems* ([https://drive.google.com/open?id=1SphvpghPigEMfseFPey4EURxs7eWJJf0 PDF])
+\n
+W. Xiang, J. Xiao
+\n
+International Journal of Systems Science 44 (2), 384-400
+
+- *Switching System Modeling and H_\infty Control of Three-Phase APF with Time-Delay* (/in Chinese/)
+\n
+L. Han, J. Xiao, W. Xiang, C. Qiu
+\n
+Electric Power Automation Equipment 33 (12), 39-44
+
+=== 2012 
+
+- *Discussion on "Stability, l_2-Gain and Asynchronous  Control of Discrete-Time Switched Systems With Average Dwell Time"* ([https://drive.google.com/open?id=1KxRbQ2HCDQuvtt9f8-3wiTGd6r9Hx-Hd PDF])
+\n
+W. Xiang, J. Xiao
+\n
+IEEE Transactions on Automatic Control 57 (12), 3259-3261
+
+- *Robust Finite-Time Bounded Observer Design for a Class of Uncertain Nonlinear Markovian Jump Systems* ([https://drive.google.com/open?id=1jNdECXatP7ZeFfCx_ryIwWlYsXF1Huv_ PDF])
+\n
+W. Xiang, J. Xiao, M.N. Iqbal
+\n
+IMA Journal of Mathematical Control and Information 29 (4), 551-572
+
+- *H_\infty Filtering for Short-Time Switched Discrete-Time Linear Systems* ([https://drive.google.com/open?id=1d52wuS_wA5fauDbV_HIpLSHh3QkU2dv1 PDF])
+\n
+W. Xiang, J. Xiao, M.N. Iqbal
+\n
+Circuits, Systems, and Signal Processing 31 (6), 1927-1949
+
+- *H_\infty Controller Design for a Class of Switched Linear Discrete-Time System with Polytopic Uncertainties* ([https://drive.google.com/open?id=1dYSDh3V0UUb36xsTYIQKMh-pdoC3hI2w PDF])
+\n
+W. Xiang, J. Xiao
+\n
+Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering 226 (10), 1311-1322
+
+- *Stability Analysis and Control Synthesis of Switched Impulsive Systems* ([https://drive.google.com/open?id=1SH5SNRvLsIyAOBmIQp7qnPLZcnpyUlnp PDF])
+\n
+W. Xiang, J. Xiao
+\n
+International Journal of Robust and Nonlinear Control 22 (13), 1440-1459
+
+- *Asymptotic Stability, l_2 Gain, Boundness Analysis, and Control Synthesis for Switched Systems: A Switching Frequency Approach* ([https://drive.google.com/open?id=1fCRt7hzxrb5kyU--gN-B0w2VgacQgqxt PDF])
+\n
+W. Xiang, J. Xiao, M.N. Iqbal
+\n
+International Journal of Adaptive Control and Signal Processing 26 (4), 350-373
+
+- *Robust Observer Design for Nonlinear Uncertain Switched Systems under Asynchronous Switching* ([https://drive.google.com/open?id=1TiG2-ELm_SZmRjzIW_wQ-SjQIdVuShEq PDF])
+\n
+W. Xiang, J. Xiao, M.N. Iqbal
+\n
+Nonlinear Analysis: Hybrid Systems 6 (1), 754-773
+
+=== 2011
+
+- *Comment on "Finite-Time H_\infty Control for Linear Continuous System with Norm-Bounded Disturbance"* ([https://drive.google.com/open?id=12TUUb8Rdh5XPZgVdGZQ-n_xydKDIRhPj PDF])
+\n
+W. Xiang, J. Xiao, C. Xiao
+\n
+Communications in Nonlinear Science and Numerical Simulation 16 (8), 3443-3445
+
+- *Fault Detection for Switched Nonlinear Systems under Asynchronous Switching* ([https://drive.google.com/open?id=1S_W3bQeNFFZ0O32KxixtAqV3E8zSrTFG PDF])
+\n
+W. Xiang, J. Xiao, M.N. Iqbal
+\n
+International Journal of Control 84 (8), 1362-1376
+
+- *H_\infty Filtering for Switched Nonlinear Systems under Asynchronous Switching* ([https://drive.google.com/open?id=1whI4NRF_TazlvbGADcDAwHysgW7aSgWn PDF])
+\n
+W. Xiang, J. Xiao
+\n
+International Journal of Systems Science 42 (5), 751-765
+
+- *H_\infty Finite-Time Control for Switched Nonlinear Discrete-Time Systems with Norm-Bounded Disturbance* ([https://drive.google.com/open?id=1ztCRZwX0HpU-lxspryC9PnhfT7CAW7Yi PDF])
+\n
+W. Xiang, J. Xiao
+\n
+Journal of the Franklin Institute 348 (2), 331-352
+
+- *H_\infty Filtering for Uncertain Switched Nonlinear Systems via Filter State Impulsive Jump Approach* ([https://drive.google.com/open?id=1cmoHsPqRG-59d4oZU4t3bpJuqM-OiRhJ PDF])
+\n
+W. Xiang, J. Xiao
+\n
+Control and Intelligent Systems 39 (1), 60
+
+- *On Finite-Time Stability and Stabilization for Switched Discrete Linear Systems* ([https://drive.google.com/open?id=1Zid9Tu2Cqn7JyaxFNtPT2368OJcg5Qa5 PDF])
+\n
+W. Xiang, J. Xiao, C. Xiao
+\n
+Control and Intelligent Systems 39 (2), 122
+
+=== 2009
+
+- *Stability Analysis of Switched Systems under Dynamical Dwell Time Control approach* ([https://drive.google.com/open?id=1ba4jXjdOpfqA-57WIOcQ-75mMPHPQFJM PDF])
+\n
+Z. Xiang, W. Xiang
+\n
+International Journal of Systems Science 40 (4), 347-355
+
+=== 2008
+
+- *Observer Design for a Class of Switched Nonlinear Systems*
+\n
+Z. Xiang, W. Xiang
+\n
+Control and Intelligent Systems 36 (4), 318
+
+
+
+== Conference Proceeding Papers
+
+=== 2022
+
+- *Approximate Bisimulation Relations for Neural Networks and Application to Assured Neural Network Compression* ([https://arxiv.org/pdf/2202.01214.pdf PDF])
+\n
+W. Xiang, Z. Shao
+\n
+2022 Annual American Control Conference (ACC)
+
+=== 2021
+
+- *Necessary and Sufficient Conditions for Stability of Discrete-Time Switched Linear Systems with Ranged Dwell Time* ([https://arxiv.org/pdf/2105.14113.pdf PDF])
+\n
+W. Xiang
+\n
+The 60th IEEE conference on Decision and Control (CDC)
+
+- *Robust Optimization Framework for Training Shallow Neural Networks Using Reachability Method* ([https://arxiv.org/pdf/2107.12801.pdf PDF])
+\n
+J. Yang, W. Xiang
+\n
+The 60th IEEE conference on Decision and Control (CDC), 3857-3862
+
+- *Poster/Demo: Interval Observer Design of Dynamical Systems With Neural Networks* 
+\n
+W. Xiang
+\n
+24th ACM International Conference on Hybrid Systems: Computation and Control (HSCC), 1-2
+
+- *Data-Driven Modeling of Switched Dynamical Systems via Extreme Learning Machine* ([https://arxiv.org/pdf/2101.09863.pdf PDF])
+\n
+W. Xiang
+\n
+2021 Annual American Control Conference (ACC), DOI: 10.23919/ACC50511.2021.9483234
+
+=== 2020
+
+- *NNV: The Neural Network Verification Tool for Deep Neural Networks and Learning-Enabled Cyber-Physical Systems* ([https://arxiv.org/pdf/2004.05519.pdf PDF])
+\n
+H.D. Tran, X. Yang, D.M. Lopez, P. Musau, L.V. Nguyen, W. Xiang, S. Bak, T.T. Johnson 
+\n
+32nd International Conference on Computer-Aided Verification (CAV 2020)
+
+- *Verification of Deep Convolutional Neural Networks Using ImageStars* ([https://arxiv.org/pdf/2004.05511.pdf PDF])
+\n
+H.D. Tran, S. Bak, W. Xiang, T.T. Johnson 
+\n
+32nd International Conference on Computer-Aided Verification (CAV 2020)
+
+=== 2019
+- *Star-Based Reachability Analysis of Deep Neural Networks* ([https://drive.google.com/open?id=1RAd2QYEqnckHBmWW11lJszRN2rRQyNqS PDF])
+\n
+H.D. Tran, D.M. Lopez, P. Musau, X. Yang, L.V. Nguyen, W. Xiang, T.T. Johnson
+\n
+International Symposium on Formal Methods, 670-686
+
+- *Reachability Analysis for High-Index Linear Differential Algebraic Equations*
+\n
+H.-D. Tran, L. V. Nguyen, N. Hamilton, W. Xiang, T. T. Johnson
+\n
+International Conference on Formal Modeling and Analysis of Timed Systems, 160-177
+
+- *Decentralized Real-Time Safety Verification for Distributed Cyber-Physical Systems* ([https://drive.google.com/open?id=1spncASFg-N5R3kT-Hs7Rboo8HnG3Fibr PDF])
+\n
+H.-D. Tran, L. V. Nguyen, P. Musau, W. Xiang, T. T. Johnson
+\n
+International Conference on Formal Techniques for Distributed Objects, Components, and Systems, 261-277
+
+- *Parallelizable reachability analysis algorithms for feed-forward neural networks* ([https://drive.google.com/open?id=1QkLsAclGE3kf3ScxghZmJd6BXtreYEiW PDF])
+\n
+H.-D. Tran, P. Musau, D. M. Lopez, X. Yang, L. V. Nguyen, W. Xiang, T. T. Johnson
+\n
+Proceedings of the 7th International Workshop on Formal Methods in Software Engineering, 31-40
+
+- *Specification-Guided Safety Verification for Feedforward Neural Networks* ([https://arxiv.org/pdf/1812.06161.pdf PDF])
+\n
+W. Xiang, H.D. Tran, T.T. Johnson
+\n
+AAAI Spring Symposium on Verification of Neural Networks (VNN19)
+
+- *Reachability Analysis and Safety Verification for Neural Network Control Systems* ([https://arxiv.org/pdf/1805.09944.pdf PDF])
+\n
+W. Xiang, X. Yang, H.D. Tran, T.T. Johnson
+\n
+AAAI Spring Symposium on Verification of Neural Networks (VNN19)
+
+- *Parallelizable Reachability Analysis Algorithms for Feed-Forward Neural Networks* ([https://drive.google.com/open?id=1QkLsAclGE3kf3ScxghZmJd6BXtreYEiW PDF])
+\n
+H.D. Tran, P. Musau, M.L. Diego, X. Yang, L.V. Nguyen, W. Xiang, T.T. Johnson
+\n
+7th International Conference on Formal Methods in Software Engineering (FormaliSE 2019)
+
+=== 2018
+
+- *Stabilizing Switching Control for DC-DC Converter in Two-Stage Photovoltaic Grid Connected Inverters* ([https://drive.google.com/open?id=1OlPa1v47t4c2iMhKylkYueCc9sC52Iwi PDF])
+\n
+Y. Liu, T. Wang, X. Wang, W. Xiang
+\n
+2018 5th International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS), 387-392
+
+- *Reachable Set Estimation and Safety Verification for Piecewise Linear Systems with Neural Network Controllers* ([https://drive.google.com/open?id=1ktWor_L6fApCKFCnhbtOI7bPx_OineBs PDF])
+\n
+W. Xiang, H.D. Tran, J.A. Rosenfeld, T.T. Johnson
+\n
+2018 Annual American Control Conference (ACC), 1574-1579
+
+- *Reachability Analysis for One Dimensional Linear Parabolic Equations* ([https://drive.google.com/open?id=1ow3HiXC9cfZqOQfTQm79wZgctlkBSEX3 PDF])
+\n
+H.D. Tran, W. Xiang, S. Bak, T.T. Johnson
+\n
+IFAC Conference on Analysis and Design of Hybrid Systems (ADHS 2018), 2018. IFAC-PapersOnLine 51 (16), 133-138
+
+=== 2017
+
+- *On Reachable Set Estimation for Discrete-Time Switched Linear Systems under Arbitrary Switching* ([https://drive.google.com/open?id=1Xdy2lPatqRpNbfKCK9BvhrODNbrcfcY3 PDF])
+\n
+W. Xiang, H.D. Tran, T.T. Johnson
+\n
+2017 American Control Conference (ACC), 4534-4539
+
+=== 2016
+
+- *Reachable Set Estimation and Control for Switched Linear Systems with Dwell-Time Restriction* ([https://drive.google.com/open?id=1wlI_6MrHc6yyJ4N1MunRoJSLdCctupOj PDF])
+\n
+W. Xiang, H.D. Tran, T.T. Johnson
+\n
+2016 IEEE 55th Conference on Decision and Control (CDC), 7246-7251
+
+- *Tutorial: Software tools for hybrid systems verification, transformation, and synthesis: C2E2, HyST, and TuLiP* ([https://drive.google.com/open?id=1vcOTDwfEXf2y0KKQpp38rz06w4P2cutC PDF])
+\n
+P.S. Duggirala, C. Fan, M. Potok, B. Qi, S. Mitra, M. Viswanathan, S. Bak, S. Bogomolov, T.T. Johnson, L.V. Nguyen, C. Schilling, A. Sogokon, H.D. Tran, W. Xiang
+\n
+Control Applications (CCA), 2016 IEEE Conference on, 1024-1029
+
+=== 2014
+
+- *Reliable Tracking Control for High Speed Train Against Actuator Failures: A Parallel Control Architecture* ([https://drive.google.com/open?id=1M-zDxGQWUuL7BfrIZHYAuXPZ1VlAiP6G PDF])
+\n
+W. Xiang, J. Xiao
+\n
+17th International IEEE Conference on Intelligent Transportation Systems (ITSC), 828-833
+
+- *Real-time signalization for an oversaturated intersection via switched system approach* ([https://drive.google.com/open?id=1UtedjM418X_VIAIaBPwv0jhOtXSgd_64 PDF])
+\n
+W. Xiang, J. Xiao
+\n
+33rd Chinese Control Conference (CCC), 3350-3355
+
+=== 2011
+
+- *Finite-Time Stability Analysis for Switched Linear Systems* ([https://drive.google.com/open?id=1mYWd4A_IMNA7P0LjqmWhO5zVsTmc80A3 PDF])
+\n
+W. Xiang, J. Xiao, C. Xiao
+\n
+2011 Chinese Control and Decision Conference (CCDC), 3115-3120
+
+=== 2009
+
+- *Stabilization of a Class of Switched Systems with Mismatched Switching*
+\n
+W. Xiang, M. Che, C. Xiao, Z. Xiang
+\n
+2009 International Conference on Measuring Technology and Mechatronics Automation 2, 124-127
+
+=== 2008
+
+- *Observer Design and Analysis for Switched Systems with Mismatching Switching Signal*
+\n
+W. Xiang, M. Che, C. Xiao, Z. Xiang
+\n
+2008 International Conference on Intelligent Computation Technology and Automation (ICICTA) 1, 650-654
+
+- *Stabilization of a Class of Switched Nonlinear Systems with Average Dwell Time*
+\n
+Z. Xiang, W. Xiang
+\n
+2008 7th World Congress on Intelligent Control and Automation, 1673-1676
+
+- *Stability Analysis of Switched Nonlinear Systems based on Dynamical Dwell Time Approach*
+\n
+Z. Xiang, W. Xiang
+\n
+2008 IEEE International Conference on Networking, Sensing and Control, 1758-1763
