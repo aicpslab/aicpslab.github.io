@@ -9,7 +9,7 @@
 {{
 <div id="member-container">
     <div id="member">
-        <a href="https://xiangweiming.github.io/" target="_blank"><img src="images/weimingxiang.jpg"></a>
+        <a href="https://xiangweiming.github.io/" target="_blank"><img src="images/group/people/weiming.jpg"></a>
         <p>
             <a href="https://xiangweiming.github.io/" target="_blank"><b>Weiming Xiang</a></b></br>
             Assistant Professor</br>
@@ -36,7 +36,7 @@
         </p>
     </div>
     <div id="member">
-        <img src="images/group/people/p8.png">
+        <img src="images/group/people/wesley.jpg">
         <p>
             <b>Wesley Cooke</b></br>
             Undergraduate Student
