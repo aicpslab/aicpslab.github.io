@@ -21,7 +21,7 @@ This project will enable the synergistic integration of data-driven modeling and
 ~~~
 {}{img_left}{./images/projects/vision.gif}{}{400px}{}{}
 This project aims to create navigation software for groups of autonomus flight drones using a camera vision based approach where localization of flight drones will primarily be handled by a classification neural network.
-
+\n
 [https://github.com/aicpslab/Multi-Drone-Gesture-Control Github Repository]
 ~~~
 
@@ -29,6 +29,6 @@ This project aims to create navigation software for groups of autonomus flight d
 ~~~
 {}{img_left}{./images/projects/gesture.gif}{}{400px}{}{}
 This project aims to extend an existing gesture drone control project to multiple drones to form a comprehensive machine-learning/neural network solution to swarm control.
-
+\n
 [https://github.com/aicpslab/Vision-Based-Navigation Github Repository]
 ~~~
