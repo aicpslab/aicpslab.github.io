@@ -1,23 +1,23 @@
 # jemdoc: menu{MENU}{resources.html}
 = Resources
 
-== [https://github.com/aicpslab/Multi-Drone-Gesture-Control Tool: Vision-Based Navigation and Control of UAVs]
+== Tool: Vision-Based Navigation and Control of UAVs
 ~~~
 {}{img_left}{./images/projects/vision.gif}{}{400px}{}{}
 This tool performs navigation and control for groups of autonomus flight drones using a camera vision based approach where localization of flight drones will primarily be handled by a classification neural network.
 \n
-[https://github.com/aicpslab/Multi-Drone-Gesture-Control Github Repository]
+[https://github.com/aicpslab/Vision-Based-Navigation Github Repository]
 ~~~
 
-== [https://github.com/aicpslab/Vision-Based-Navigation Tool: Gesture Control of Tello Drones]
+== Tool: Gesture Control of Tello Drones
 ~~~
-{}{img_left}{./images/projects/gesture.gif}{}{400px}{}{}
+{}{img_left}{./images/projects/gesture.gif}{}{400px}{}{https://github.com/aicpslab/Multi-Drone-Gesture-Control}
 This tool extends an existing gesture drone control tool to multiple drones to form a comprehensive machine-learning/neural network solution to swarm control.
 \n
-[https://github.com/aicpslab/Vision-Based-Navigation Github Repository]
+[https://github.com/aicpslab/Multi-Drone-Gesture-Control Github Repository]
 ~~~ 
 
-== [publications.html Publications]
+== Publications
 ~~~
 {}{img_left}{./images/resources/publications.jpg}{}{400px}{}{}
 All publications by AI-CPS Lab members.
