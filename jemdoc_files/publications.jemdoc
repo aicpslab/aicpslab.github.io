@@ -15,6 +15,14 @@ Safe, Autonomous and Intelligent Vehicles, Springer, 123-144
 
 === 2022
 
+- *Run-Time Safety Monitoring of Neural-Network-Enabled Dynamical Systems (Regular Paper)*
+([https://arxiv.org/pdf/2101.08297.pdf PDF])
+\n
+W. Xiang
+\n
+IEEE Transactions on Cybernetics, 52(9): 9587 - 9596
+
+
 - *Guaranteed Approximation Error Estimation of Neural Networks and Model Modification* ([https://drive.google.com/file/d/17X1-UMtTRHXBRmkxKTx81KoOUryF0QTR/view?usp=sharing PDF])
 \n
 Y. Yang, T. Wang, J. P. Woolard, W. Xiang
@@ -35,13 +43,6 @@ Journal of the Franklin Institute, 359(8): 3910-3929
 D. Tran, N. Pal, D.M. Lopez, P. Musau, X. Yang, L.V. Nguyen, W. Xiang, S. Bak, T. T. Johnson
 \n
 Formal Aspects of Computing, 33: 519-545
-
-- *Run-Time Safety Monitoring of Neural-Network-Enabled Dynamical Systems (Regular Paper)*
-([https://arxiv.org/pdf/2101.08297.pdf PDF])
-\n
-W. Xiang
-\n
-IEEE Transactions on Cybernetics, Accepted
 
 - *Necessary and Sufficient Conditions for Stability of Discrete-Time Switched Linear Systems with Ranged Dwell Time*
 ([https://arxiv.org/pdf/2105.14113.pdf PDF])
