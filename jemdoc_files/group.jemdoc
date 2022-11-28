@@ -18,7 +18,7 @@
     </div>
 </div>
 }}
-== Members
+== Current Members
 {{
 <div id="member-container">
     <div id="member">
@@ -32,21 +32,30 @@
         <img src="images/group/people/patrick.jpg">
         <p>
             <b>Jefferson P. Woolard</b></br>
-            Master Student
+            Master Student</br>
+		<i>Next Position: </i>Software Engineer, <a href="https://www.vast-inc.com/" target="_blank">VaST, Inc</a>
         </p>
     </div>
     <div id="member">
         <img src="images/group/people/wesley.jpg">
         <p>
             <b>Wesley Cooke</b></br>
-            Undergraduate Student
+            Undergraduate Student</br>
+		<a href="https://public.cyber.mil/cw/cdp/dcysp/" target="_blank">DoD CySP Scholarship</a>
         </p>
     </div>
+</div>
+}}
+
+== Past Group Members
+{{
+<div id="member-container">
     <div id="member">
         <img src="images/group/people/kaney.jpg">
         <p>
             <b>Kaney Nguyen</b></br>
-            Undergraduate Student
+            Undergraduate Student</br>
+		<i>Next Position:</i> Network Engineer, <a href="https://www.gdeb.com/" target="_blank">General Dynamics</a>
         </p>
     </div>
 </div>
