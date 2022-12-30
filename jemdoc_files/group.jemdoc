@@ -13,6 +13,7 @@
         <p>
             <a href="https://xiangweiming.github.io/" target="_blank"><b>Weiming Xiang</a></b></br>
             Assistant Professor</br>
+		<a href="https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career"    			target="_blank">NSF CAREER Award</a>
 		<a href="https://scholar.google.com/citations?user=Vm_7JP8AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
         </p>
     </div>
@@ -26,14 +27,6 @@
         <p>
             <b>Zihao Mo</b></br>
             PhD Student
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/group/people/patrick.jpg">
-        <p>
-            <b>Jefferson P. Woolard</b></br>
-            Master Student</br>
-		<i>Next Position: </i>Software Engineer, <a href="https://www.vast-inc.com/" target="_blank">VaST, Inc</a>
         </p>
     </div>
     <div id="member">
@@ -51,11 +44,19 @@
 {{
 <div id="member-container">
     <div id="member">
+        <img src="images/group/people/patrick.jpg">
+        <p>
+            <b>Jefferson P. Woolard</b></br>
+            Master Student</br>
+		<i>Next Position: </i>Software Engineer, <a href="https://www.vast-inc.com/" target="_blank">VaST, Inc</a>
+        </p>
+    </div>
+    <div id="member">
         <img src="images/group/people/kaney.jpg">
         <p>
             <b>Kaney Nguyen</b></br>
             Undergraduate Student</br>
-		<i>Next Position:</i> Network Engineer, <a href="https://www.gdeb.com/" target="_blank">General Dynamics</a>
+		<i>Next Position: </i>Embedded Engineer, <a href="https://www.rtx.com/" target="_blank">Raytheon 				Technologies</a>
         </p>
     </div>
 </div>
