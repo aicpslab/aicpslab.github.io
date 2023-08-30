@@ -30,18 +30,17 @@
         </p>
     </div>
     <div id="member">
-        <img src="images/group/people/wesley.jpg">
+        <img src="images/group/people/shuaizheng.jpg">
         <p>
-            <b>Wesley Cooke</b></br>
-            Undergraduate Student</br>
-		<a href="https://public.cyber.mil/cw/cdp/dcysp/" target="_blank">DoD CySP Scholarship</a>
+            <b>Shuaizheng Lu</b></br>
+            PhD Student
         </p>
     </div>
     <div id="member">
-        <img src="images/group/people/keiichi.jpg">
+        <img src="images/group/people/yejiang.jpg">
         <p>
-            <b>Keiichi Iguchi</b></br>
-            Undergraduate Student
+            <b>Yejiang Yang</b></br>
+            Visiting PhD Student
         </p>
     </div>
     <div id="member">
@@ -74,6 +73,21 @@
 		<i>Next Position: </i>Embedded Engineer, <a href="https://www.rtx.com/" target="_blank">Raytheon 				Technologies</a>
         </p>
     </div>
+    <div id="member">
+        <img src="images/group/people/wesley.jpg">
+        <p>
+            <b>Wesley Cooke</b></br>
+            Undergraduate Student</br>
+		<a href="https://public.cyber.mil/cw/cdp/dcysp/" target="_blank">DoD CySP Scholarship</a>
+        </p>
+    </div>
+   <div id="member">
+        <img src="images/group/people/keiichi.jpg">
+        <p>
+            <b>Keiichi Iguchi</b></br>
+            Undergraduate Student
+        </p>
+    </div>
 </div>
 }}
 
@@ -85,18 +99,21 @@
     <img src="images/group/activity/Picture5.jpg" style="width:100%">
     <img src="images/group/activity/Picture12.jpg" style="width:100%">
     <img src="images/group/activity/Picture8.jpg" style="width:100%">
+    <img src="images/group/activity/Picture23.jpg" style="width:100%">
   </div>
   <div class="column">
     <img src="images/group/activity/Picture10.jpg" style="width:100%">
     <img src="images/group/activity/Picture6.jpg" style="width:100%">
     <img src="images/group/activity/Picture7.jpg" style="width:100%">
     <img src="images/group/activity/Picture20.jpg" style="width:100%">
+    <img src="images/group/activity/Picture24.jpg" style="width:100%">
   </div>
   <div class="column">
     <img src="images/group/activity/Picture3.jpg" style="width:100%">
     <img src="images/group/activity/Picture11.jpg" style="width:100%">
     <img src="images/group/activity/Picture14.jpg" style="width:100%">
     <img src="images/group/activity/Picture15.jpg" style="width:100%">
+    <img src="images/group/activity/Picture25.jpg" style="width:100%">
   </div>
   <div class="column">
     <img src="images/group/activity/Picture4.jpg" style="width:100%">
