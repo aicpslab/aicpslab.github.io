@@ -457,13 +457,39 @@ Control and Intelligent Systems 36 (4), 318
 
 == Conference Proceeding Papers
 
+=== 2023
+
+- *Modeling Dynamical Systems with Neural Hybrid System Framework via Maximum Entropy Approach*
+\n
+Y. Yang, W. Xiang
+\n
+2023 American Control Conference (ACC), 3907-3712
+
+- *Guaranteed Quantization Error Computation for Neural Network Model Compression* ([https://arxiv.org/pdf/2304.13812.pdf PDF])
+\n
+W. Cooke, Z. Mo, W. Xiang
+\n
+2023 IEEE International Conference on Industrial Technology (ICIT)
+
+- *A Data-Driven Hybrid Automaton Framework to Modeling Complex Dynamical Systems* ([https://arxiv.org/pdf/2304.13811.pdf PDF])
+\n
+Y. Yang, Z. Mo, W. Xiang
+\n
+2023 IEEE International Conference on Industrial Technology (ICIT)
+
 === 2022
+
+- *Safety Verification of Neural Network Control Systems Using Guaranteed Neural Network Model Reduction* ([https://arxiv.org/pdf/2301.07531.pdf PDF])
+\n
+W. Xiang, Z. Shao
+\n
+2022 IEEE 61st Conference on Decision and Control (CDC), 1521-1526
 
 - *Approximate Bisimulation Relations for Neural Networks and Application to Assured Neural Network Compression* ([https://arxiv.org/pdf/2202.01214.pdf PDF])
 \n
 W. Xiang, Z. Shao
 \n
-2022 Annual American Control Conference (ACC)
+2022 Annual American Control Conference (ACC), 3248-3253
 
 === 2021
 
