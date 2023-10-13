@@ -17,6 +17,14 @@ This project targets unique machine-learning-intensive CPS upgrade challenges by
 This project will enable the synergistic integration of data-driven modeling and control methods such as neural networks, reinforcement learning, and model-based methods such as hybrid systems, and model predictive control. This project will also explore the benefits of extended reality (XR) in building human-machine interfaces for effective communication and interaction between human users, machines, and environments.
 ~~~
 
+== Foundations of Qualitative and Quantitative Safety Assessment of Learning-enabled Systems
+~~~
+{}{img_left}{./images/projects/nsf.jpg}{}{200px}{}{}
+==  [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331938&HistoricalAwards=false NSF IIS Award 2331938]
+=== PI: Dr. Weiming Xiang, \$270,913, December 2023 - November 2026
+This project targets the foundational challenges of developing qualitative and quantitative safety assessment methods capable of capturing uncertainties from environments and providing timely, comprehensive, and accurate safety evaluations at the system level.
+~~~
+
 == Vision-Based Navigation and Control of UAVs
 ~~~
 {}{img_left}{./images/projects/vision.gif}{}{400px}{}{}
