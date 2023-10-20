@@ -26,7 +26,8 @@
         <img src="images/group/people/zihao.jpg">
         <p>
             <b>Zihao Mo</b></br>
-            PhD Student
+            PhD Student</br>
+		<a href="https://www.augusta.edu/gradschool/grd-2023.php" target="_blank">Augusta University Excellence in Research Award</a>
         </p>
     </div>
     <div id="member">
@@ -50,6 +51,13 @@
             Undergraduate Student</br>
 		<a href="https://www.augusta.edu/honors/thesis.php" target="_blank">Augusta University Honors Thesis</a>
         </p>
+    </div>
+    <div id="member">
+        <img src="images/group/people/logan.jpg">
+        <p>
+            <b>Logan Beatty</b></br>
+            Undergraduate Student</br>
+	</p>
     </div>
 </div>
 }}
