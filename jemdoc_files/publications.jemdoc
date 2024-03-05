@@ -13,7 +13,22 @@ Safe, Autonomous and Intelligent Vehicles, Springer, 123-144
 
 == Journal Articles
 
+=== 2024
+
+- *Maximum Output Discrepancy Computation for Convolutional Neural Network Compression*
+([https://www.sciencedirect.com/science/article/abs/pii/S0020025524002809 PDF])
+\n
+Z. Mo, W. Xiang
+\n
+Information Sciences, 665: 120367
+
 === 2023
+
+- *Observer-Based Safety Monitoring of Nonlinear Dynamical Systems with Neural Networks via Quadratic Constraint Approach*
+\n
+T. Wang, Y. Li, Z. Mo, W. Cooke, W. Xiang
+\n
+International Journal of Control
 
 - *Computationally Efficient Neural Hybrid Automaton Framework for Learning Complex Dynamics*
 ([https://www.sciencedirect.com/science/article/abs/pii/S0925231223010020 PDF])
@@ -466,9 +481,23 @@ Control and Intelligent Systems 36 (4), 318
 
 == Conference Proceeding Papers
 
+=== 2024
+
+- *Compression Repair for Feedforward Neural Networks Based on Model Equivalence Evaluation* ([https://arxiv.org/pdf/2402.11737.pdf PDF])
+\n
+Z. Mo, Y. Yang, S. Lu, W. Xiang
+\n
+2024 American Control Conference (ACC)
+
+- *A Transition System Abstraction Framework for Neural Network Dynamical System Models* ([https://arxiv.org/pdf/2402.11739.pdf PDF])
+\n
+Y. Yang, Z. Mo, H.D. Tran, W. Xiang
+\n
+2024 American Control Conference (ACC)
+
 === 2023
 
-- *Modeling Dynamical Systems with Neural Hybrid System Framework via Maximum Entropy Approach*
+- *Modeling Dynamical Systems with Neural Hybrid System Framework via Maximum Entropy Approach* ([https://ieeexplore.ieee.org/abstract/document/10155820 PDF])
 \n
 Y. Yang, W. Xiang
 \n
