@@ -13,7 +13,24 @@ Safe, Autonomous and Intelligent Vehicles, Springer, 123-144
 
 == Journal Articles
 
+=== 2025
+
+- *Efficient Neural Hybrid System Learning and Interpretable Transition System Abstraction for Dynamical Systems*
+\n
+Y. Yang, Z. Mo, W. Xiang
+\n
+ASME Letters in Dynamic Systems and Control, 5(1): 011001
+
+
 === 2024
+
+- *Observer-Based Safety Monitoring of Nonlinear Dynamical Systems with Neural Networks via Quadratic Constraint Approach*
+([https://arxiv.org/pdf/2411.10262 PDF])
+\n
+T. Wang, Y. Li, Z. Mo, W. Cooke, W. Xiang
+\n
+International Journal of Control, 97(10): 2420-2432
+
 
 - *Maximum Output Discrepancy Computation for Convolutional Neural Network Compression*
 ([https://www.sciencedirect.com/science/article/abs/pii/S0020025524002809 PDF])
@@ -24,11 +41,6 @@ Information Sciences, 665: 120367
 
 === 2023
 
-- *Observer-Based Safety Monitoring of Nonlinear Dynamical Systems with Neural Networks via Quadratic Constraint Approach*
-\n
-T. Wang, Y. Li, Z. Mo, W. Cooke, W. Xiang
-\n
-International Journal of Control
 
 - *Computationally Efficient Neural Hybrid Automaton Framework for Learning Complex Dynamics*
 ([https://www.sciencedirect.com/science/article/abs/pii/S0925231223010020 PDF])
@@ -483,6 +495,36 @@ Control and Intelligent Systems 36 (4), 318
 
 === 2024
 
+- *Discrepancy-Based Knowledge Distillation for Image Classification Restoration*
+\n
+Z. Mo, W. Xiang
+\n
+23rd IEEE International Conference on Machine Learning and Applications, 2024
+
+- *Approximate Bisimulation Relation Restoration for Neural Networks Based On Knowledge Distillation*
+\n
+J. Chen, Z. Mo, T. Wang, W. Xiang
+\n
+23rd IEEE International Conference on Machine Learning and Applications, 2024
+
+- *Data-Driven Decentralized Control Design for Discrete-Time Large-Scale Systems*
+\n
+J. Liao, S. Lu, T. Wang, W. Xiang
+\n
+The 4th Modeling, Estimation, and Control Conference (MECC 2024)
+
+- *Efficient Neural Hybrid System Learning and Transition System Abstraction for Dynamical Systems*
+\n
+Y. Yang, Z. Mo, W. Xiang
+\n
+The 4th Modeling, Estimation, and Control Conference (MECC 2024)
+
+- *D3NN: Data-Driven Dual-level Neural Network Tool for Dynamical System Modeling and Abstraction* ([https://par.nsf.gov/servlets/purl/10554621 PDF])
+\n
+Y. Yang, Z. Mo, W. Xiang
+\n
+8th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS 2024)
+
 - *Compression Repair for Feedforward Neural Networks Based on Model Equivalence Evaluation* ([https://arxiv.org/pdf/2402.11737.pdf PDF])
 \n
 Z. Mo, Y. Yang, S. Lu, W. Xiang
@@ -494,6 +536,12 @@ Z. Mo, Y. Yang, S. Lu, W. Xiang
 Y. Yang, Z. Mo, H.D. Tran, W. Xiang
 \n
 2024 American Control Conference (ACC)
+
+- *Energy Efficient Robust Beamforming for Vehicular ISAC with Imperfect Channel Estimation* ([https://arxiv.org/pdf/2310.17401 PDF])
+\n
+H. Zhang, H. Sun, T. He, W. Xiang, R. Q. Hu
+\n
+2024 IEEE International Conference on Communications Workshops (ICC Workshops)
 
 === 2023
 

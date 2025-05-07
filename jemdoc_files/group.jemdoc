@@ -38,26 +38,11 @@
         </p>
     </div>
     <div id="member">
-        <img src="images/group/people/yejiang.jpg">
+        <img src="images/group/people/jiaping.jpg">
         <p>
-            <b>Yejiang Yang</b></br>
-            Visiting PhD Student
+            <b>Jiaping Liao</b></br>
+            PhD Student
         </p>
-    </div>
-    <div id="member">
-        <img src="images/group/people/daelyn.jpg">
-        <p>
-            <b>Daelyn Doughty</b></br>
-            Undergraduate Student</br>
-		<a href="https://www.augusta.edu/honors/thesis.php" target="_blank">Augusta University Honors Thesis</a>
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/group/people/logan.jpg">
-        <p>
-            <b>Logan Beatty</b></br>
-            Undergraduate Student</br>
-	</p>
     </div>
 </div>
 }}
@@ -95,6 +80,28 @@
             <b>Keiichi Iguchi</b></br>
             Undergraduate Student
         </p>
+    </div>
+    <div id="member">
+        <img src="images/group/people/yejiang.jpg">
+        <p>
+            <b>Yejiang Yang</b></br>
+            Visiting PhD Student
+        </p>
+    </div>
+    <div id="member">
+        <img src="images/group/people/daelyn.jpg">
+        <p>
+            <b>Daelyn Doughty</b></br>
+            Undergraduate Student</br>
+		<a href="https://www.augusta.edu/honors/thesis.php" target="_blank">Augusta University Honors Thesis</a>
+        </p>
+    </div>
+    <div id="member">
+        <img src="images/group/people/logan.jpg">
+        <p>
+            <b>Logan Beatty</b></br>
+            Undergraduate Student</br>
+	</p>
     </div>
 </div>
 }}
