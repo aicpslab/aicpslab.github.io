@@ -15,6 +15,31 @@ Safe, Autonomous and Intelligent Vehicles, Springer, 123-144
 
 === 2025
 
+- *Model-Free Stabilization for Discrete-Time Large-Scale Systems with Time-Delays*
+\n
+S. Lu, W. Xiang
+\n
+Automatica 179, 112439
+
+- *A Distributed Neural Hybrid System Learning Framework in Modeling Complex Dynamical Systems (Regular Paper)*
+\n
+Y. Yang, T. Wang, W. Xiang
+\n
+IEEE Transactions on Neural Networks and Learning Systems, 36(5), 9463-9473
+
+- *Neural Transition System Abstraction for Neural Network Dynamical System Models and Its Application to Computational Tree Logic Verification*
+\n
+Y. Yang, T. Wang, W. Xiang
+\n
+Neural Networks 186, 107261
+
+- *Data-Driven Controller Design of Discrete-Time Switched Systems Using Virtual Clock Approach*
+\n
+Y. Li, T. Wang, W. Xiang
+\n
+ISA Transactions 158, 197-207
+
+
 - *Efficient Neural Hybrid System Learning and Interpretable Transition System Abstraction for Dynamical Systems*
 \n
 Y. Yang, Z. Mo, W. Xiang
@@ -492,6 +517,27 @@ Control and Intelligent Systems 36 (4), 318
 
 
 == Conference Proceeding Papers
+
+=== 2025
+
+- *Decentralized Data-Driven Control for Discrete-time T-S Fuzzy Large-Scale Systems*
+\n
+S. Lu, W. Xiang
+\n
+2025 Modeling, Estimation and Control Conference, 2025
+
+- *EqBaB: Efficient Equivalence Verification for Compressed DNNs with Bound Propagation (Poster)*
+\n
+Z. Mo, Y. Yang,  W. Xiang
+\n
+2025 62nd ACM/IEEE Design Automation Conference (DAC)
+
+
+- *Perception-Based Quantitative Runtime Verification for Learning-enabled Cyber-Physical Systems*
+\n
+R. Brown, L. V. Nguyen, W. Xiang, M. Wolf, H.-D. Tran
+\n
+Proceedings of the ACM/IEEE 16th International Conference on Cyber-Physical Systems, 2025
 
 === 2024
 
