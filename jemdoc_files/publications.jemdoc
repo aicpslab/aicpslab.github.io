@@ -13,6 +13,20 @@ Safe, Autonomous and Intelligent Vehicles, Springer, 123-144
 
 == Journal Articles
 
+=== 2026
+
+- *Data-Driven Control Based on Control Barrier Functions with Recursive Feasibility Guarantee (Full Paper)*
+\n
+ J. Liao, W. Xiang
+\n
+IEEE Transactions on Automatic Control, 2026.
+
+- *EqBaB: Efficient Equivalence Verification for Compressed DNNs with Bound Propagation*
+\n
+ Z. Mo, W. Xiang
+\n
+Neurocomputing 674, 132791.
+
 === 2025
 
 - *Model-Free Stabilization for Discrete-Time Large-Scale Systems with Time-Delays*
@@ -517,6 +531,14 @@ Control and Intelligent Systems 36 (4), 318
 
 
 == Conference Proceeding Papers
+
+=== 2026
+
+- *Failure-Tolerant Data-Driven Control for Discrete-Time Linear Systems*
+\n
+S. Lu, J.Liao, Z. Mo, W. Xiang
+\n
+2026 American Control Conference (ACC)
 
 === 2025
 
